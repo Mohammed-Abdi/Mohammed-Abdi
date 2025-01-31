@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hello, I'm Mohammed Abdi!
 
-<!--
-**Mohammed-Abdi/Mohammed-Abdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Front-End Developer | UI/UX Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate **Front-End Developer** with a keen eye for design and detail. I love crafting user-friendly interfaces and bringing ideas to life with code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Skills & Technologies
+- **Languages:** HTML, CSS, JavaScript, C++
+- **Design & Prototyping:** Figma, Adobe Illustrator
+- **Version Control:** Git, GitHub
+- **Other Tools:** VS Code, Webpack, etc.
+
+### 📌 What I Do
+- 🖥️ Build responsive and interactive websites
+- 🎨 Design user-friendly interfaces
+- 🔧 Optimize performance and accessibility
+- 🚀 Continuously learn and improve my skills
+
+### 📂 Projects
+Check out some of my projects:
+- [🌐 My Portfolio](https://mohammed-abdi.github.io/New-Portfolio/)
+
+### 📫 Let's Connect!
+- **GitHub:** [Mohammed-Abdi](https://github.com/mohammed-abdi)
+- **Email:** mohammedabdi.ta@gmail.com
+- **LinkedIn:** [Mohammed Abdi](https://www.linkedin.com/in/mohammed-abdi-641917202/)
+
+---
+⭐ **If you like my work, consider following me!** ⭐
+

@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** with a ke
 
 ### 📂 Projects
 Check out some of my projects:
-- [🌐 My Portfolio](https://mohammed-abdi.github.io/New-Portfolio/)
+- [🌐 My Portfolio](https://mohammed-abdi.github.io/Portfolio/)
 
 ### 📫 Let's Connect!
 - **GitHub:** [Mohammed-Abdi](https://github.com/mohammed-abdi)

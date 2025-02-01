@@ -16,6 +16,7 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** with a ke
 - 🔧 Optimize performance and accessibility
 - 🚀 Continuously learn and improve my skills
 
+
 <p align="left">
   <img width="48%" src="https://streak-stats.demolab.com/?user=sushilmagare10&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200&fire=orange" alt="GitHub streak Card" />
 </p>

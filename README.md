@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Mohammed Abdi!
 
-## 🚀 Front-End Developer | UI/UX Enthusiast
+## 🚀 Front-End Developer
 
-Welcome to my GitHub profile! I'm a passionate **Front-End Developer** with a keen eye for design and detail. I love crafting user-friendly interfaces and bringing ideas to life with code.
+Welcome to my GitHub profile! I'm a passionate **Front-End Developer** and I love crafting user-friendly interfaces and bringing ideas to life with code.
 
 ### 🔥 Skills & Technologies
 - **Languages:** HTML, CSS, JavaScript, C++
@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** with a ke
 
 ### 📂 Projects
 Check out some of my projects:
-- [🌐 My Portfolio](https://mohammed-abdi.github.io/Portfolio/)
+- [🌐 My Portfolio](https://mohammed-abdi.github.io/Mohammed-Portfolio/)
 
 ### 📫 Let's Connect!
 - **GitHub:** [Mohammed-Abdi](https://github.com/mohammed-abdi)

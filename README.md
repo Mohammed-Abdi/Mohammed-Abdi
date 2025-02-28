@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** and I lov
 - **Languages:** HTML, CSS, JavaScript, C++
 - **Design & Prototyping:** Figma, Adobe Illustrator
 - **Version Control:** Git, GitHub
-- **Other Tools:** VS Code, Webpack, etc.
+- **Other Tools:** VS Code, etc.
 
 ### 📌 What I Do
 - 🖥️ Build responsive and interactive websites
@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** and I lov
 
 ### 📂 Projects
 Check out some of my projects:
-- [🌐 My Portfolio](https://mohammed-abdi.github.io/Mohammed-Portfolio/)
+- [🌐 My Portfolio](https://mohammed-abdi.vercel.app/)
 
 ### 📫 Let's Connect!
 - **GitHub:** [Mohammed-Abdi](https://github.com/mohammed-abdi)

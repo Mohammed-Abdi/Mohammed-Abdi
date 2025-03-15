@@ -10,6 +10,12 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** and I lov
 - **Version Control:** Git, GitHub
 - **Other Tools:** VS Code, etc.
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mohammed-Abdi&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Mohammed-Abdi&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Abdi&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
 ### 📌 What I Do
 - 🖥️ Build responsive and interactive websites
 - 🎨 Design user-friendly interfaces

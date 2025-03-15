@@ -5,10 +5,18 @@
 Welcome to my GitHub profile! I'm a passionate **Front-End Developer** and I love crafting user-friendly interfaces and bringing ideas to life with code.
 
 ### 🔥 Skills & Technologies
-- **Languages:** HTML, CSS, JavaScript, C++
-- **Design & Prototyping:** Figma, Adobe Illustrator
-- **Version Control:** Git, GitHub
-- **Other Tools:** VS Code, etc.
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
 
 ### 📌 What I Do
 - 🖥️ Build responsive and interactive websites

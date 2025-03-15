@@ -28,7 +28,6 @@ Check out some of my projects:
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mohammed-Abdi&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Mohammed-Abdi&theme=transparent&hide_border=true)
 
 ---
 ⭐ **If you like my work, following me!** ⭐

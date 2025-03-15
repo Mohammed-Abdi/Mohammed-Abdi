@@ -10,12 +10,6 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** and I lov
 - **Version Control:** Git, GitHub
 - **Other Tools:** VS Code, etc.
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mohammed-Abdi&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mohammed-Abdi&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Abdi&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
 ### 📌 What I Do
 - 🖥️ Build responsive and interactive websites
 - 🎨 Design user-friendly interfaces
@@ -32,6 +26,11 @@ Check out some of my projects:
 - **Email:** mohammedabdi.ta@gmail.com
 - **LinkedIn:** [Mohammed Abdi](https://www.linkedin.com/in/mohammed-abdi-641917202/)
 
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mohammed-Abdi&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Mohammed-Abdi&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Abdi&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 ---
-⭐ **If you like my work, consider following me!** ⭐
+⭐ **If you like my work, following me!** ⭐
 

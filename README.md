@@ -5,7 +5,7 @@
 Welcome to my GitHub profile! I'm a passionate **Front-End Developer** and I love crafting user-friendly interfaces and bringing ideas to life with code.
 
 ### 🔥 Skills & Technologies
-- **Languages:** HTML, CSS, JavaScript, C++
+- **Languages:** JavaScript,, C++ CSS, and HTML
 - **Design & Prototyping:** Figma, Adobe Illustrator
 - **Version Control:** Git, GitHub
 - **Other Tools:** VS Code, etc.

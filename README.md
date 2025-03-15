@@ -19,6 +19,7 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** and I lov
 ### 📂 Projects
 Check out some of my projects:
 - [🌐 My Portfolio](https://mohammed-abdi.vercel.app/)
+- [🌐 Recipe](https://recipes-recipes.vercel.app/)
 
 ### 📫 Let's Connect!
 - **GitHub:** [Mohammed-Abdi](https://github.com/mohammed-abdi)
